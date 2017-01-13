@@ -8,7 +8,7 @@ __all__ = ["set_log_level", "get_log_level",
            "LOG_ALL"]
 
 (LOG_CRIT, LOG_ERROR, LOG_WARNING, LOG_INFO, LOG_DEBUG,
- LOG_DEBUG2, LOG_ALL) = range(1, 8)
+ LOG_DEBUG2, LOG_ALL) = range(7)
 
 _log_callbacks = set()
 _log_level = LOG_ALL
