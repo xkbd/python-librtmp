@@ -1,14 +1,8 @@
 python-librtmp
 ==============
 
-.. image:: http://img.shields.io/pypi/v/python-librtmp.svg?style=flat-square
-    :target: https://pypi.python.org/pypi/python-librtmp
-
-.. image:: http://img.shields.io/pypi/dm/python-librtmp.svg?style=flat-square
-    :target: https://pypi.python.org/pypi/python-librtmp
-
-.. image:: http://img.shields.io/travis/chrippa/python-librtmp.svg?style=flat-square
-    :target: http://travis-ci.org/chrippa/python-librtmp
+.. image:: http://img.shields.io/travis/xkbd/python-librtmp.svg?style=flat-square
+    :target: http://travis-ci.org/xkbd/python-librtmp
 
 
 python-librtmp is a `RTMP`_ client library. It uses the implementation
